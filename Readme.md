@@ -1,19 +1,28 @@
-# Wiaam — HealthTech Portfolio
+# Wiaam Bouguezour — Engineering × Data × AI × HealthTech
 
-### Run
-Open this folder in VS Code and launch `index.html` with Live Server, or open the HTML file directly in a browser.
+Personal portfolio showcasing my journey as an engineering student and my projects at the intersection of **engineering, data, artificial intelligence and HealthTech**.
 
-### Add your photos
-Place these files inside `assets/images/`:
-- `mediobes.jpg`
-- `coremetrics.jpg`
-- `vibrometry.jpg`
-- `ram-dashboard.jpg`
+The portfolio highlights academic projects, healthcare applications, data analysis work, mobility plans and certifications.
 
-The page currently shows a polished placeholder if a photo is missing.
+## Run locally
 
-### Replace
-In `index.html`, change the email, LinkedIn and GitHub links to your real links.
+Open the project folder in **VS Code** and launch `index.html` with **Live Server**.
 
-### Design
-Dark editorial / scientific aesthetic, responsive layout, scroll reveal animations, project cards, mobility section and certification section.
+You can also open `index.html` directly in a web browser.
+
+## Project structure
+
+```text
+wiaam-portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+└── assets/
+    └── images/
+        ├── Synergy Medical Assistant/
+        ├── MediObes/
+        ├── CoreMetrics/
+        ├── RAM_Dashboard/
+        └── Certifications/
